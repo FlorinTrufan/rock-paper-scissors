@@ -1,0 +1,23 @@
+.score p:first-child {
+  background: blue;
+}
+
+.score p:last-child {
+  background: black;
+}
+
+.choice {
+  cursor: pointer;
+  border: 2px solid orangered;
+  border-radius: 16px;
+}
+.modal-content {
+  background: #fff;
+  text-align: center;
+}
+.text-lose {
+  color: red;
+}
+.text-win {
+  color: green;
+}
